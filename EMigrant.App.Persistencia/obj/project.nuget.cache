@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uIsAb6kQCnlIySxeSxgm7PwHtBH+sGEYITZ7EaFWwzk5n8N4dcBu4b6sn50g490isQ8+ddDI5j3IWo383N0zDw==",
+  "success": true,
+  "projectFilePath": "E:\\Desktop\\EMigrant.App\\EMigrant.App.Persistencia\\EMigrant.App.Persistencia.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Carlos Cordoba\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Carlos Cordoba\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
